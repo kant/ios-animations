@@ -51,7 +51,7 @@ Animation
 
 # Use in your own project
 
-Do you need Search functionality in your project? See how the example works within the `Search` folder. `TabBar`? Check out the TabBar folder. All example components are in their respective folders. Make sure to follow the requirement set forth by our license.
+Do you need Search functionality in your project? See how the example works within the `Search` folder. `TabBar`? Check out the `TabBar` folder. All example components are in their respective folders. Make sure to follow the requirement set forth by our license.
 
 [code-license]: #code-license
 [getting-started]: #getting-started
